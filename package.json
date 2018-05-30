@@ -2,7 +2,7 @@
 	"name": "theme-inspired-github",
 	"displayName": "Inspired GitHub",
 	"description": "Inspired GitHub Theme port of Sublime Text 3",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"publisher": "dareenzo",
 	"license": "MIT",
 	"engines": {

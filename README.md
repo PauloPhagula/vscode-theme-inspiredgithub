@@ -5,7 +5,7 @@ color scheme for Sublime Text 3
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/dareenzovscode-theme-inspiredgithub/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/dareenzo/vscode-theme-inspiredgithub/master/screenshot.png)
 
 ## Installation
 
