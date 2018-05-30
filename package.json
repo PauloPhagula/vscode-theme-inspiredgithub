@@ -1,0 +1,38 @@
+{
+	"name": "theme-inspired-github",
+	"displayName": "Inspired GitHub",
+	"description": "Inspired GitHub Theme port of Sublime Text 3",
+	"version": "0.1.2",
+	"publisher": "dareenzo",
+	"license": "MIT",
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+      "sublime text",
+      "theme",
+      "light",
+      "github"
+  ],
+  "contributes": {
+		"themes": [
+			{
+				"label": "Inspired Github",
+				"uiTheme": "vs",
+				"path": "./themes/InspiredGithub.tmTheme"
+			}
+		]
+	},
+ "icon": "icon.png",
+  "homepage": "https://github.com/dareenzo/vscode-theme-inspiredgithub",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dareenzo/vscode-theme-inspiredgithub.git"
+	},
+	"bugs": {
+		"url": "https://github.com/dareenzo/vscode-theme-inspiredgithub/issues"
+	}
+}
